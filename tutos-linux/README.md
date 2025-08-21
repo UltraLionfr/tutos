@@ -9,10 +9,10 @@ Ici, je regroupe mes notes, commandes et astuces pour mieux comprendre et utilis
 
 ### 🔧 Utilisation de Linux
 
-* [⚙️ Commandes de base](./bases.md) – navigation, manipulation de fichiers, permissions
-* [📂 Gestion des processus](./processus.md) – `top`, `ps`, `kill`, `htop`
-* [🌐 Réseau](./reseau.md) – `ping`, `curl`, `netstat`
-* [🔐 Sécurité](./securite.md) – utilisateurs, groupes, `sudo`, `chmod`
+* [⚙️ Commandes de base](./utilisation/bases.md) – navigation, manipulation de fichiers, permissions
+* [📂 Gestion des processus](./utilisation/processus.md) – `top`, `ps`, `kill`, `htop`
+* [🌐 Réseau](./utilisation/reseau.md) – `ping`, `curl`, `netstat`
+* [🔐 Sécurité](./utilisation/securite.md) – utilisateurs, groupes, `sudo`, `chmod`
 
 ### 🖥️ Administration système
 
