@@ -6,8 +6,8 @@ Chaque tuto ou pense-bête est classé par thème pour retrouver rapidement l’
 ---
 
 ## 🗂️ Table des matières
-- 🌱 [Git](./tutos-git/README.md) – commandes essentielles et bonnes pratiques
-- 🖥️ [Linux](./tutos-linux/README.md) – commandes utiles et configuration système
+- 🌱 [Git](./tutos-git) – commandes essentielles et bonnes pratiques
+- 🖥️ [Linux](./tutos-linux) – commandes utiles et configuration système
 
 ---
 
