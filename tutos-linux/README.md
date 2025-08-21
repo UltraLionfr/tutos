@@ -22,6 +22,7 @@ Ici, je regroupe mes notes, commandes et astuces pour mieux comprendre et utilis
 
 * [⚡ Nginx](./serveurs/nginx.md)
 * [🔑 SSH](./serveurs/ssh.md)
+* [📧 Mailcow](./serveurs/mailcow.md)
 
 ### 🎮 Jeux & Panels
 
