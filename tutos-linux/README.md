@@ -33,6 +33,6 @@ Ici, je regroupe mes notes, commandes et astuces pour mieux comprendre et utilis
 ## 💡 Ressources utiles
 
 * 📖 [Documentation officielle GNU/Linux](https://www.kernel.org/doc/html/latest/)
-* 🐚 [Cheat Sheet des commandes Linux](https://linuxcommandlibrary.com/)
+* ⚙️ [Cheat Sheet des commandes Linux](https://linuxcommandlibrary.com/)
 
 ---
