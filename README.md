@@ -20,3 +20,6 @@ Chaque tuto ou pense-bête est classé par thème pour retrouver rapidement l’
 ## 🤝 Contributions
 Ce repo est avant tout un pense-bête personnel.
 Mais si vous souhaitez proposer une amélioration ou corriger une erreur, les **pull requests** sont les bienvenues !
+
+## 💬 Envie de discuter ?
+👉 [Rejoins mon serveur Discord](https://discord.gg/msaPJjBMbZ)
